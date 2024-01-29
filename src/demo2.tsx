@@ -4,6 +4,7 @@ const Demo2 = () => {
   return (
     <div>demo2
         <p>file2</p>
+        <p>File B</p>
     </div>
 
   )
